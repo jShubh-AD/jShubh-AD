@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Shubh</h1>
-<h1 align="left">A passionate full stack app developer based in India</h1>
-<h1 align="left">Trying to learn cool stuf and be better than yesterday.</h1>
+<h4 align="left">A passionate full stack app developer based in India</h4>
+<h4 align="left">Trying to learn cool stuf and be better than yesterday.</h4>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jshubh-ad" alt="jshubh-ad" /></a> </p> -->
 
